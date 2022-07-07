@@ -1,0 +1,15 @@
+{
+  "name": "day-4",
+  "version": "1.0.0",
+  "description": "challenge day 4",
+  "main": "main.ts",
+  "scripts": {
+    "dev": "ts-node main.ts"
+  },
+  "author": "JGJJansen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "ts-node": "^10.8.2"
+  }
+}
